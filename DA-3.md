@@ -6,6 +6,13 @@
 - Data exploration refers to the initial step in data analysis in which data analysts use data visualization and statistical techniques to describe dataset characterizations, such as size, quantity, and accuracy, in order to better understand the nature of the data.
 - Raw data is typically reviewed with a combination of manual workflows and automated data-exploration techniques to visually explore data sets, look for similarities, patterns and outliers and to identify the relationships between different variables.
 - This is also sometimes referred to as exploratory data analysis, which is a statistical technique employed to analyze raw data sets in search of their broad characteristics.
+
+- Data exploration is the process of **examining and analyzing** *large datasets* to **identify patterns, trends, and relationships between variables**. It *involves using statistical and visual techniques* to <u>understand the structure and content of the data, and to uncover insights and key features that may be hidden in the data.</u>     
+
+- Data exploration is an important step in data analysis because it helps to identify potential problems and limitations in the data, as well as opportunities for further analysis. It allows analysts to develop a deeper understanding of the data and to form hypotheses about the relationships between variables.
+
+- Some common techniques used in data exploration include visualizations such as scatter plots, histograms, and box plots, as well as statistical measures such as correlation coefficients and summary statistics. By using these techniques, analysts can identify outliers, missing values, and other anomalies in the data, and can make informed decisions about how to proceed with further analysis
+
 - [unread]
 
 ### 2. Why is Data Exploration Important?
